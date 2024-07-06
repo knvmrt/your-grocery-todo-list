@@ -1,0 +1,39 @@
+        /* body {
+            background-color: #222;
+            color: #e7e8e9;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        input, button {
+            color: black; 
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            color: #e7e8e9;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #444;
+            text-align: left;
+            color: #e7e8e9;
+        }
+        th {
+            background-color: #333;
+
+        }
+        .delete-btn, .edit-btn {
+            font-size: 14px;
+            padding: 8px 12px;
+            margin-right: 5px;
+        }
+        .inp{
+            margin: 10px 0px 10px 0px;
+        }
+        @media (max-width: 576px) {
+            .delete-btn, .edit-btn {
+                font-size: 16px;
+                padding: 10px 15px;
+            }
+        } */
